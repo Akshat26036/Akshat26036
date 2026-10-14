@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying at Dev Bhoomi Uttarakhand University, Dehradun.<br>I'm pursing BCA(DATA SCIENCE).<br>My work is to get the information from the data.<br>Trying to work with the environment.
+I'm currently studying at Dev Bhoomi Uttarakhand University, Dehradun.<br>I'm pursing BCA(DATA SCIENCE).<br>My work is to get the information from the data.<br>Trying to work with the good environment.
 
 
 ## 🌐 Socials:
